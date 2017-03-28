@@ -15,4 +15,4 @@ Key requirements:  Company needs to document whether salary emplyies did or did 
 - Need to document if employee DID NOT log overtime
 
 ## UI
-Bootstrap -> formatting
+- Bootstrap -> formatting
